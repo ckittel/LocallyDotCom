@@ -43,7 +43,7 @@
     <Compile Include="Http\ApiConnection.cs" />
     <Compile Include="Clients\CategoriesClient.cs" />
     <Compile Include="Clients\CatalogClient.cs" />
-    <Compile Include="Helpers\ApiKeyAuthenticator.cs" />
+    <Compile Include="Http\ApiKeyAuthenticator.cs" />
     <Compile Include="Clients\BrandsClient.cs" />
     <Compile Include="Clients\ClientBase.cs" />
     <Compile Include="Helpers\ApiUrls.cs" />

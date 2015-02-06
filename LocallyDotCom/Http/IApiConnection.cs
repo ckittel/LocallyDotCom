@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace LocallyDotCom
+namespace LocallyDotCom.Http
 {
     public interface IApiConnection
     {

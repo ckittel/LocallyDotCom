@@ -1,5 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
+using LocallyDotCom.Helpers;
+using LocallyDotCom.Http;
+using LocallyDotCom.Models;
 
 namespace LocallyDotCom.Clients
 {

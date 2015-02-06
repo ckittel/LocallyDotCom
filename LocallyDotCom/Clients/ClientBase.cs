@@ -1,4 +1,6 @@
-﻿namespace LocallyDotCom.Clients
+﻿using LocallyDotCom.Http;
+
+namespace LocallyDotCom.Clients
 {
     public abstract class ClientBase
     {

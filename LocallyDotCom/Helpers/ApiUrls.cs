@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LocallyDotCom
+namespace LocallyDotCom.Helpers
 {
     public static class ApiUrls
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LocallyDotCom
+namespace LocallyDotCom.Models
 {
     public class CatalogProduct
     {

@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using LocallyDotCom.Helpers;
 using RestSharp;
 
-namespace LocallyDotCom
+namespace LocallyDotCom.Http
 {
     public class ApiConnection : IApiConnection
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using RestSharp.Deserializers;
 
-namespace LocallyDotCom
+namespace LocallyDotCom.Models
 {
     public class CategoriesResponse
     {

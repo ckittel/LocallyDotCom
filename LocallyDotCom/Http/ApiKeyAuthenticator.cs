@@ -1,6 +1,6 @@
 ﻿using RestSharp;
 
-namespace LocallyDotCom
+namespace LocallyDotCom.Http
 {
     internal class ApiKeyAuthenticator : IAuthenticator
     {

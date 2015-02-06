@@ -1,4 +1,5 @@
 ﻿using LocallyDotCom.Clients;
+using LocallyDotCom.Http;
 
 namespace LocallyDotCom
 {
